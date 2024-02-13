@@ -1,5 +1,5 @@
-## Active Directory Group User Export Script
-# This PowerShell script is to run on an Windows server Active Directory 
+# Active Directory Group User Export Script
+## This PowerShell script is to run on an Active Directory
 
 This PowerShell script automates the process of exporting user information from Active Directory groups to CSV files. 
 
