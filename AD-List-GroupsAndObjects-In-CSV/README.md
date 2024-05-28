@@ -1,4 +1,4 @@
-# Active Directory List Group Object In CSV 
+# Active Directory List Group and Object In CSV 
 ## This PowerShell script is to run on an Active Directory
 
 This PowerShell script automates the process of exporting user information from Active Directory groups to CSV files. 
